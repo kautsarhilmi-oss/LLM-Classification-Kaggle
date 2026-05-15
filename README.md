@@ -18,3 +18,6 @@ Dataset berasal dari LMSYS - Chatbot Arena, berisi ribuan percakapan manusia den
 - [x] Data Cleaning & Preprocessing
 - [x] Baseline Submission (Word Count Strategy)
 - [ ] Next: Fine-tuning menggunakan Model Transformers (BERT/RoBERTa)
+
+## 🎯 Current Result
+- **Initial Score (Word Count Baseline):** 1.096 (Log Loss)
